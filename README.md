@@ -1,2 +1,6 @@
 # Conversational-interaction-grey-literature-catalogue
-This source comprises guidelines and design toolkits not published in scientific venues.
+This source comprises guidelines and design toolkits not published in scientific venues. 
+The corpus here presented was collected through a google search searching for the following keywords: “conversational AI guidelines,” “conversational AI card toolkits,” “conversational design principles,” “[platform name] design guidelines”, were “platform name” stands for the name of the top chatbot development platforms at the time of the search (2022) which included: Amazon Lex, Google Dialogue Flow, IBM Watson Assistant, Botpress, Rasa. The results from the first page were analysed and were eliminated articles that did not contain any guideline or design recommendation, leaving seven sources in total.
+The collected sources were classified according to the kind of knowledge encoded: design guidelines, design patterns, insights, or problems. Insights refers to scenarios and other information about how users may benefit from conversational interaction. Problems refers to the issues that can be tackled using conversational interaction. The sources were further categorized based on moment of use: research, ideation, prototyping, development.
+
+Authors: Ludovica Piro
